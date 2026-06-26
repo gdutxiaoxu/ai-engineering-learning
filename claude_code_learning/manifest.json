@@ -1,0 +1,97 @@
+{
+  "source_root_url": "https://my.feishu.cn/wiki/PFAJwSTjQiqJOkkYYAbcy93Lngb",
+  "exported_at": "2026-06-25T18:59:58-0700",
+  "article_count": 10,
+  "articles": [
+    {
+      "order": "01",
+      "title": "Claude Code Skills 入门：什么是 Skills，为什么你需要它",
+      "wiki_token": "EqSCwysQpiy3KJkq2iVc5m94nom",
+      "source_url": "https://my.feishu.cn/wiki/EqSCwysQpiy3KJkq2iVc5m94nom",
+      "document_id": "COiPdDnuAoD9M0xUL5DcTbqznmD",
+      "revision_id": 4,
+      "file": "01. Claude Code Skills 入门：什么是 Skills，为什么你需要它.md"
+    },
+    {
+      "order": "02",
+      "title": "5分钟上手Claude Skills：从零到第一个技能",
+      "wiki_token": "V21ZwebDgiz8CFkhoyUcXKYFnKg",
+      "source_url": "https://my.feishu.cn/wiki/V21ZwebDgiz8CFkhoyUcXKYFnKg",
+      "document_id": "RAOtd435Yo9qBcxkjX9cEcCdnZb",
+      "revision_id": 2,
+      "file": "02. 5分钟上手Claude Skills：从零到第一个技能.md"
+    },
+    {
+      "order": "03",
+      "title": "Skills vs 斜杠命令 vs MCP：你应该用哪个？",
+      "wiki_token": "F5CAweEjEipdAyke09ncdEH0nV2",
+      "source_url": "https://my.feishu.cn/wiki/F5CAweEjEipdAyke09ncdEH0nV2",
+      "document_id": "KVgYdPW3io3YaAxQH5WcP5z9n0f",
+      "revision_id": 2,
+      "file": "03. Skills vs 斜杠命令 vs MCP：你应该用哪个？.md"
+    },
+    {
+      "order": "04",
+      "title": "渐进式披露：Claude Skills的核心秘密",
+      "wiki_token": "Pfpew5iNxi0zkfkezs2c6hTvnId",
+      "source_url": "https://my.feishu.cn/wiki/Pfpew5iNxi0zkfkezs2c6hTvnId",
+      "document_id": "Dhxsd6cbFo91VRxrbTJcKXn3nsd",
+      "revision_id": 2,
+      "file": "04. 渐进式披露：Claude Skills的核心秘密.md"
+    },
+    {
+      "order": "05",
+      "title": "SKILL.md编写指南：写好技能描述是成功的一半",
+      "wiki_token": "Wxarwee1ciALunkGcRfcCh9NnNe",
+      "source_url": "https://my.feishu.cn/wiki/Wxarwee1ciALunkGcRfcCh9NnNe",
+      "document_id": "UpkidFXtIopbr0xkJkBcJG47nxc",
+      "revision_id": 2,
+      "file": "05. SKILL.md编写指南：写好技能描述是成功的一半.md"
+    },
+    {
+      "order": "06",
+      "title": "Claude Code Skills 高级模式：让技能更强大的组织方式",
+      "wiki_token": "Pfyjw1xxZipzczk8iL8cbkD3neb",
+      "source_url": "https://my.feishu.cn/wiki/Pfyjw1xxZipzczk8iL8cbkD3neb",
+      "document_id": "I02sd3b6GoMNVUxtuiEcERw3ndE",
+      "revision_id": 2,
+      "file": "06. Claude Code Skills 高级模式：让技能更强大的组织方式.md"
+    },
+    {
+      "order": "07",
+      "title": "实战案例：用5分钟完成半天的工作量",
+      "wiki_token": "BwQrwyUd1iKq0Fkmq72cZ15Snjf",
+      "source_url": "https://my.feishu.cn/wiki/BwQrwyUd1iKq0Fkmq72cZ15Snjf",
+      "document_id": "AmIadCbsco0O2pxXy9uch4Wynth",
+      "revision_id": 2,
+      "file": "07. 实战案例：用5分钟完成半天的工作量.md"
+    },
+    {
+      "order": "08",
+      "title": "5个必装的Claude Skills，效率直接翻倍",
+      "wiki_token": "Bqe0wDS5hizw4ekIwB3clQIwneb",
+      "source_url": "https://my.feishu.cn/wiki/Bqe0wDS5hizw4ekIwB3clQIwneb",
+      "document_id": "Kwybd5e3roeAUxxBOMzcl6uenAc",
+      "revision_id": 2,
+      "file": "08. 5个必装的Claude Skills，效率直接翻倍.md"
+    },
+    {
+      "order": "09",
+      "title": "从零创建自定义技能：六步完整流程",
+      "wiki_token": "JdYNwZzdHioTybku87zcs66SnnJ",
+      "source_url": "https://my.feishu.cn/wiki/JdYNwZzdHioTybku87zcs66SnnJ",
+      "document_id": "T5vhdapbvou0z2xFf54caVWhnIF",
+      "revision_id": 2,
+      "file": "09. 从零创建自定义技能：六步完整流程.md"
+    },
+    {
+      "order": "10",
+      "title": "Claude Skills 生态与未来：个人 Agent 的基石",
+      "wiki_token": "EbXOwRLZWiqGrqky0RRcIPhNnUd",
+      "source_url": "https://my.feishu.cn/wiki/EbXOwRLZWiqGrqky0RRcIPhNnUd",
+      "document_id": "FA6fdwLmgoXklLxDTm1cyySqnAg",
+      "revision_id": 2,
+      "file": "10. Claude Skills 生态与未来：个人 Agent 的基石.md"
+    }
+  ]
+}
