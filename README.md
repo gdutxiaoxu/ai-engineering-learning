@@ -36,6 +36,19 @@
 - 如何设计可复用、可维护的技能
 - 如何把技能沉淀成个人或团队资产
 
+## 官方学习资料
+
+如果你想系统学习 AI 编程、Agent、Claude Code 或 OpenAI 生态，我非常建议优先阅读官方文档。
+
+官方资料最大的价值是：它们通常是第一手、最新、最准确的学习资料。很多概念、能力边界、最佳实践，官方文档都会最先更新。
+
+推荐先从这两个入口开始：
+
+- Claude Code 官方文档：[Claude Code Docs](https://code.claude.com/docs/en/overview)
+- OpenAI 官方文档：[OpenAI Docs](https://platform.openai.com/docs)
+
+如果你觉得英文阅读有门槛，也完全没关系，直接配合 Chrome 翻译插件阅读就可以。先建立一手认知，再结合中文教程和实战案例理解，学习效率通常会更高。
+
 ## 这个仓库适合谁
 
 - 想系统学习 AI Coding / Agent 工作流的人
